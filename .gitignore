@@ -1,0 +1,28 @@
+# Credentials and secrets — never commit these
+.env
+credentials.json
+token.json
+
+# Garmin session token cache
+.garminconnect/
+
+# Google auth token cache
+token.json
+
+# Python virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code project config
+.claude/
+
+# Windows / OS noise
+Thumbs.db
+desktop.ini
