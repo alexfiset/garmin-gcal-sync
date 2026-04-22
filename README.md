@@ -9,6 +9,8 @@ Daily sync of your Garmin Connect activities into a dedicated "Garmin Workouts" 
 - `run_garmin_sync.bat` — Windows Task Scheduler wrapper
 - Logs to `garmin_sync.log` next to the script
 
+Note this was created with the use of Claude Code
+
 ## One-time setup
 
 ### 1. Install Python deps
